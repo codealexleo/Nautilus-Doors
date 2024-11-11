@@ -2853,6 +2853,11 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: efcfd45ca1d0eed4a9bd1211a6669ab5, type: 3}
+--- !u!1 &1469622461 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1079765821563856685, guid: 5bc2a8f7e20306241af57bae87dfaa45, type: 3}
+  m_PrefabInstance: {fileID: 6094129459970860808}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1481148584
 GameObject:
   m_ObjectHideFlags: 0
@@ -3774,6 +3779,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 1079765821563856685, guid: 5bc2a8f7e20306241af57bae87dfaa45, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3090891635834414312, guid: 5bc2a8f7e20306241af57bae87dfaa45, type: 3}
+      propertyPath: pauseMenu
+      value: 
+      objectReference: {fileID: 1469622461}
+    - target: {fileID: 3090891635834414312, guid: 5bc2a8f7e20306241af57bae87dfaa45, type: 3}
+      propertyPath: pausePanel
+      value: 
+      objectReference: {fileID: 1469622461}
     - target: {fileID: 4393280331735750559, guid: 5bc2a8f7e20306241af57bae87dfaa45, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.0008994744
@@ -3814,9 +3831,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6873080827216546246, guid: 5bc2a8f7e20306241af57bae87dfaa45, type: 3}
+      propertyPath: pauseMenu
+      value: 
+      objectReference: {fileID: 1469622461}
+    - target: {fileID: 7568002021145389371, guid: 5bc2a8f7e20306241af57bae87dfaa45, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ResumeGame
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects:
-    - {fileID: 1079765821563856685, guid: 5bc2a8f7e20306241af57bae87dfaa45, type: 3}
+    m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 285883086291869182, guid: 5bc2a8f7e20306241af57bae87dfaa45, type: 3}

@@ -18,9 +18,12 @@ public class PlayerMovement : MonoBehaviour
     private float xRotation = 0f;
     private int jumpTimesLeft;
 
+    PauseMenu pauseMenu;
+
     void Start()
     {
         characterController = GetComponent<CharacterController>();
+        pauseMenu = GetComponent<PauseMenu>();
         Cursor.lockState = CursorLockMode.Locked;
         currentSpeed = speed;
         jumpTimesLeft = maxJumps;
@@ -29,7 +32,10 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         MovePlayer();
-        RotateCamera();
+        if(pauseMenu.isPaused == false)
+        {
+            RotateCamera();
+        }
         CheckLanding();
     }
 
