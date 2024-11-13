@@ -459,7 +459,7 @@ GameObject:
   - component: {fileID: 1865667469680893960}
   m_Layer: 0
   m_Name: barn-farm-british-1f-door-d
-  m_TagString: Untagged
+  m_TagString: Door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1511,7 +1511,7 @@ GameObject:
   - component: {fileID: 6445164838657976029}
   m_Layer: 0
   m_Name: barn-farm-british-1f-door-d (2)
-  m_TagString: Untagged
+  m_TagString: Door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1795,7 +1795,7 @@ GameObject:
   - component: {fileID: 9106571232197834806}
   m_Layer: 0
   m_Name: barn-farm-british-1f-door-d (1)
-  m_TagString: Untagged
+  m_TagString: Door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2021,7 +2021,7 @@ GameObject:
   - component: {fileID: 3633954537363262973}
   m_Layer: 0
   m_Name: barn-farm-british-1f-door-d (3)
-  m_TagString: Untagged
+  m_TagString: Door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
