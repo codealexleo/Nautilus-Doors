@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4110349311244675967}
   m_Layer: 0
-  m_Name: WDoor
+  m_Name: CDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29,8 +29,8 @@ Transform:
   m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 5766569221983377665}
   - {fileID: 1374374288161149117}
+  - {fileID: 5766569221983377665}
   m_Father: {fileID: 1907210284763463594}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &696920394376695398
@@ -956,7 +956,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8334972043792001928}
   - component: {fileID: 9146166655354408355}
-  - component: {fileID: 3726834995240973236}
+  - component: {fileID: 7224924244120548528}
   m_Layer: 0
   m_Name: 2WTriger
   m_TagString: Untagged
@@ -1000,7 +1000,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.7640524, y: 3.5314145, z: 1}
   m_Center: {x: 0.030807972, y: 1.2657073, z: 0}
---- !u!114 &3726834995240973236
+--- !u!114 &7224924244120548528
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1009,7 +1009,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4373901571933883788}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c4b2eb8bd843d3049a748d0f3efd74af, type: 3}
+  m_Script: {fileID: 11500000, guid: 4a2b5386e94fe72479cc0c936dea8736, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   srcaudio: {fileID: 4844647664619962452}
@@ -1256,7 +1256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6751810681134303413}
   m_Layer: 0
-  m_Name: CDoor
+  m_Name: WDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

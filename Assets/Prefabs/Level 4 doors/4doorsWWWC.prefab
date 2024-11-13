@@ -481,7 +481,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6054921235035682261}
   - component: {fileID: 4834137603501034998}
-  - component: {fileID: 6041453113770684907}
+  - component: {fileID: 6634665088010835920}
   m_Layer: 0
   m_Name: 3WTriger
   m_TagString: Untagged
@@ -525,7 +525,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.7640524, y: 3.5314145, z: 1}
   m_Center: {x: 0.030807972, y: 1.2657073, z: 0}
---- !u!114 &6041453113770684907
+--- !u!114 &6634665088010835920
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -534,10 +534,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 3161724572193626934}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c4b2eb8bd843d3049a748d0f3efd74af, type: 3}
+  m_Script: {fileID: 11500000, guid: 9d0e54cdc350f214a84df8f9c582a9f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  srcaudio: {fileID: 0}
+  srcaudio: {fileID: 4844647664619962452}
   correctTrigger:
   - {fileID: 533041235103057508}
 --- !u!1 &3409765644600041080
@@ -721,7 +721,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3584499754009818581}
   - component: {fileID: 6576306767588479108}
-  - component: {fileID: 6088044248166940923}
+  - component: {fileID: 1072015923348395939}
   m_Layer: 0
   m_Name: 1WTriger
   m_TagString: Untagged
@@ -765,7 +765,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.7640524, y: 3.5314145, z: 1}
   m_Center: {x: 0.030807972, y: 1.2657073, z: 0}
---- !u!114 &6088044248166940923
+--- !u!114 &1072015923348395939
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -774,10 +774,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 3639410474701978673}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c4b2eb8bd843d3049a748d0f3efd74af, type: 3}
+  m_Script: {fileID: 11500000, guid: 9d0e54cdc350f214a84df8f9c582a9f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  srcaudio: {fileID: 0}
+  srcaudio: {fileID: 4844647664619962452}
   correctTrigger:
   - {fileID: 533041235103057508}
 --- !u!1 &3866099258228497095
@@ -856,7 +856,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7030744924418600526}
   - component: {fileID: 5847619455198831543}
-  - component: {fileID: 7557675440003410185}
+  - component: {fileID: 2310222737001387092}
   m_Layer: 0
   m_Name: 2WTriger
   m_TagString: Untagged
@@ -900,7 +900,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.7640524, y: 3.5314145, z: 1}
   m_Center: {x: 0.030807972, y: 1.2657073, z: 0}
---- !u!114 &7557675440003410185
+--- !u!114 &2310222737001387092
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -909,10 +909,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 4381562477642847756}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c4b2eb8bd843d3049a748d0f3efd74af, type: 3}
+  m_Script: {fileID: 11500000, guid: 9d0e54cdc350f214a84df8f9c582a9f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  srcaudio: {fileID: 0}
+  srcaudio: {fileID: 4844647664619962452}
   correctTrigger:
   - {fileID: 533041235103057508}
 --- !u!1 &4814642606141289297

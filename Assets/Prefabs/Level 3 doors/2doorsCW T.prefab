@@ -955,7 +955,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8334972043792001928}
   - component: {fileID: 9146166655354408355}
-  - component: {fileID: 3726834995240973236}
+  - component: {fileID: 2991671189896203069}
   m_Layer: 0
   m_Name: 2WTriger
   m_TagString: Untagged
@@ -972,7 +972,7 @@ Transform:
   m_GameObject: {fileID: 4373901571933883788}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
-  m_LocalPosition: {x: -0.50333375, y: 0.3520001, z: 1.0830007}
+  m_LocalPosition: {x: -0.286, y: 0.3520001, z: 1.0830007}
   m_LocalScale: {x: 0.6666667, y: 0.6666667, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -999,7 +999,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.7640524, y: 3.5314145, z: 1}
   m_Center: {x: 0.030807972, y: 1.2657073, z: 0}
---- !u!114 &3726834995240973236
+--- !u!114 &2991671189896203069
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1008,7 +1008,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4373901571933883788}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c4b2eb8bd843d3049a748d0f3efd74af, type: 3}
+  m_Script: {fileID: 11500000, guid: 4a2b5386e94fe72479cc0c936dea8736, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   srcaudio: {fileID: 4844647664619962452}

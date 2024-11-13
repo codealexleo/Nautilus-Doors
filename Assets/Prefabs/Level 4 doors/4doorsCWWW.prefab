@@ -455,7 +455,7 @@ GameObject:
   m_Component:
   - component: {fileID: 815701914440354536}
   - component: {fileID: 7464078795428233352}
-  - component: {fileID: 6744644259415021841}
+  - component: {fileID: 6541744689776525356}
   m_Layer: 0
   m_Name: 3WTriger
   m_TagString: Untagged
@@ -499,7 +499,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.7640524, y: 3.5314145, z: 1}
   m_Center: {x: 0.030807972, y: 1.2657073, z: 0}
---- !u!114 &6744644259415021841
+--- !u!114 &6541744689776525356
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -508,7 +508,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1925071579635852553}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c4b2eb8bd843d3049a748d0f3efd74af, type: 3}
+  m_Script: {fileID: 11500000, guid: 9d0e54cdc350f214a84df8f9c582a9f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   srcaudio: {fileID: 4844647664619962452}
@@ -1300,7 +1300,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8334972043792001928}
   - component: {fileID: 9146166655354408355}
-  - component: {fileID: 3726834995240973236}
+  - component: {fileID: 7062925214816399537}
   m_Layer: 0
   m_Name: 2WTriger
   m_TagString: Untagged
@@ -1344,7 +1344,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.7640524, y: 3.5314145, z: 1}
   m_Center: {x: 0.030807972, y: 1.2657073, z: 0}
---- !u!114 &3726834995240973236
+--- !u!114 &7062925214816399537
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1353,7 +1353,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4373901571933883788}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c4b2eb8bd843d3049a748d0f3efd74af, type: 3}
+  m_Script: {fileID: 11500000, guid: 9d0e54cdc350f214a84df8f9c582a9f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   srcaudio: {fileID: 4844647664619962452}
@@ -1773,7 +1773,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2861750325634009836}
   - component: {fileID: 2426416751906371639}
-  - component: {fileID: 5945579400670491009}
+  - component: {fileID: 178759814905995282}
   m_Layer: 0
   m_Name: 4WTriger
   m_TagString: Untagged
@@ -1817,7 +1817,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.7640524, y: 3.5314145, z: 1}
   m_Center: {x: 0.030807972, y: 1.2657073, z: 0}
---- !u!114 &5945579400670491009
+--- !u!114 &178759814905995282
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1826,7 +1826,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6194700137257862561}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c4b2eb8bd843d3049a748d0f3efd74af, type: 3}
+  m_Script: {fileID: 11500000, guid: 9d0e54cdc350f214a84df8f9c582a9f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   srcaudio: {fileID: 4844647664619962452}

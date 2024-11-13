@@ -1046,7 +1046,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1467375497}
-        m_TargetAssemblyTypeName: NextLevel2to3, Assembly-CSharp
+        m_TargetAssemblyTypeName: NextLevel3to4, Assembly-CSharp
         m_MethodName: LoadNextScene
         m_Mode: 1
         m_Arguments:
@@ -1104,7 +1104,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1467375491}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 79f95eb89128ab648a9ede7db8a5174b, type: 3}
+  m_Script: {fileID: 11500000, guid: 65b31fb86898da04293b62116c9a17c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1946769081
@@ -1191,7 +1191,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1946769086}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Restart2, Assembly-CSharp
         m_MethodName: RestartScene
         m_Mode: 1
@@ -1250,7 +1250,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1946769081}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 934dcebcb1298c041a99febdc81686f0, type: 3}
+  m_Script: {fileID: 11500000, guid: 10c53eeb44f675a4bad8bba30f22176d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
