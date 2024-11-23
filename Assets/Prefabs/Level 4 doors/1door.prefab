@@ -43,7 +43,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7103657032019779600}
   - component: {fileID: 3729252217492770093}
-  - component: {fileID: 7898341560778280713}
+  - component: {fileID: 1330528362973121651}
   m_Layer: 0
   m_Name: 1CTriger
   m_TagString: Untagged
@@ -87,7 +87,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.7640524, y: 3.5314145, z: 1}
   m_Center: {x: 0.030807972, y: 1.2657073, z: 0}
---- !u!114 &7898341560778280713
+--- !u!114 &1330528362973121651
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -96,7 +96,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4332493979385453619}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5e96a67bbd0ca04d99eb86d810f1d5e, type: 3}
+  m_Script: {fileID: 11500000, guid: 0ae8a6e3df9fa1a448f001cffe1b94e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &4754604073869599822
@@ -334,7 +334,7 @@ GameObject:
   - component: {fileID: 7234123976132222558}
   m_Layer: 0
   m_Name: barn-farm-british-1f-door-d (2)
-  m_TagString: Untagged
+  m_TagString: Door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
